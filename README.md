@@ -44,7 +44,7 @@ Welcome to airbnb-clone-project requirement analysis, a project focused on showc
 ---
 ## 🧩Types of Requirements
 
-  ### 1. Functional Requirements 
+   ### 1. Functional Requirements 
   
 `Functional requirements` define the specific behaviors and functionalities of the system. For the **`Airbnb Clone Project's booking management system**`, examples include:
 
@@ -66,7 +66,7 @@ Welcome to airbnb-clone-project requirement analysis, a project focused on showc
 - **`Maintainability`**: The codebase should be organized and documented to support future updates and fixes.
 - **`Compliance`**: The system should adhere to relevant legal and regulatory standards, such as data protection laws.
       
-  
+--- 
 ## 🎯Use Case Diagrams
 
 >>### What Are Use Case Diagrams?
@@ -110,6 +110,7 @@ Below is the use case diagram for the ALX Booking Management System. It highligh
 + 🔄 **`Alignment:`** They help developers, testers, and stakeholders stay aligned on the scope and functionality.
 + 📦 **`Deliverability:`** They ensure that features meet user needs before being marked as complete.
 
+---
 >## `Example`: Acceptance Criteria for Checkout Feature
 >
 >>**`Feature:`** Checkout for Booking Management System
@@ -120,7 +121,7 @@ Below is the use case diagram for the ALX Booking Management System. It highligh
 + [X] The booking is only confirmed after successful payment authorization.
 + [X] A booking confirmation email must be sent to the user immediately after successful checkout.
 + [X] If the payment fails, the user must be notified with an appropriate error message and allowed to retry.
-+ [X]The system must update room availability after a successful checkout to prevent overbooking.
++ [X] The system must update room availability after a successful checkout to prevent overbooking.
 
 These criteria help ensure the Checkout feature delivers value, works as expected, and aligns with the business goals.
 
