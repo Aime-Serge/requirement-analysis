@@ -1,33 +1,47 @@
-# 📐 Wireframing in UI/UX Design
-
-## 🧭 Introduction
-
-Wireframing is a foundational step in the UI/UX design process that involves creating simplified visual representations of web or mobile interfaces. These blueprints help define the structure, layout, and functionality of a product before any coding begins. Wireframes ensure clarity in the user journey, reduce design inconsistencies, and help teams align around the user experience early in the development lifecycle.
+# 📌 Requirement Analysis in Software Development
+# 📘Introduction
+Welcome to airbnb-clone-project requirement analysis, a project focused on showcasing the importance of requirement analysis in software development. This repository outlines a structured approach to identifying, documenting, and analyzing stakeholder requirements before initiating the development process. By emphasizing early-stage planning, airbnb-clone-project requirement analysis aims to reduce development risks, enhance product quality, and ensure alignment with user needs. Whether you're a student, developer, or project manager, this project provides insights and templates to help you conduct thorough requirement analysis for any software solution.
 
 ---
+## 📚 What is Requirement Analysis?
+**`Requirement Analysis`** is a critical phase in the software development lifecycle (SDLC) where the project team `gathers`, `analyzes`, and `defines` the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
-## 🧱 Key Elements of a Wireframe
+---
+## ❗ Why is Requirement Analysis Important?
++ [X] **`Clarity and Understanding`:** It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
++ [X] **`Scope Definition`:** Clearly defines the scope of the project, which helps in preventing scope creep.
++ [X] **`Basis for Design and Development`:** Provides a solid foundation for designing and developing the system.
++ [X] **`Cost and Time Estimation`:** Facilitates accurate estimation of project cost, resources, and time.
++ [X] **`Quality Assurance`:** Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
-Effective wireframes consist of essential design elements that map out a user interface’s basic structure and functionality:
-  + [X] `Requirement Elicitation`
+---
+## 📌 Key Activities in Requirement Analysis
++ [X] `Requirement Gathering`
+      
+    + **This involves collecting high-level information from stakeholders about what they expect from the Airbnb Clone. Sources may include interviews, surveys, existing platforms, and 
+        business documents.**
+      
++ [X] `Requirement Elicitation`
         
-      + **Elicitation digs deeper into stakeholder needs by using techniques like brainstorming sessions, use case development, and user 
-         stories to uncover implicit and explicit requirements of both hosts and guests.**
+   + **Elicitation digs deeper into stakeholder needs by using techniques like brainstorming sessions, use case development, and user 
+       stories to uncover implicit and explicit requirements of both hosts and guests.**
   
-  + [X] `Requirement Documentation`
++ [X] `Requirement Documentation`
         
-      + **All gathered and elicited requirements are clearly documented using tools like SRS (Software Requirements Specification), user 
+   + **All gathered and elicited requirements are clearly documented using tools like SRS (Software Requirements Specification), user 
          stories, or feature lists to ensure clarity and traceability.**
   
-  + [X] `Requirement Analysis and Modeling`
++ [X] `Requirement Analysis and Modeling`
         
-      + **In this stage, the requirements are analyzed for feasibility, consistency, and completeness. Models such as use case diagrams, 
+   + **In this stage, the requirements are analyzed for feasibility, consistency, and completeness. Models such as use case diagrams, 
          user flowcharts, and wireframes are used to visualize how the system should behave.**
   
-  + [X] `Requirement Validation`
++ [X] `Requirement Validation`
         
-      + **The documented requirements are reviewed and validated with stakeholders to ensure they align with business goals and user 
+   + **The documented requirements are reviewed and validated with stakeholders to ensure they align with business goals and user 
          expectations, minimizing risks of rework later in development.**
+
+---
 ## 🧩Types of Requirements
 
   ### 1. Functional Requirements 
